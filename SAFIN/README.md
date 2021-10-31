@@ -1,3 +1,4 @@
+Run [this notebook](https://github.com/sonnguyen129/style-transfer-rotation/blob/main/SAFIN/safin-test.ipynb) to see result.
 # SAFIN: Arbitrary Style Transfer With Self-Attentive Factorized Instance Normalization
 
 This repository contains the code for our ICME 2021 paper:
