@@ -1,3 +1,4 @@
+Run [this notebook](https://github.com/sonnguyen129/style-transfer-rotation/blob/main/AdaAttN/AdaAttn-test.ipynb) to see result.
 # AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer
 
 > [[Paper](https://arxiv.org/abs/2108.03647)] [[PyTorch Implementation](https://github.com/Huage001/AdaAttN)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)]
