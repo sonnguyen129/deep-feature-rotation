@@ -1,3 +1,4 @@
+Run [this notebook](https://github.com/sonnguyen129/style-transfer-rotation/blob/main/LinearStyleTransfer/LST-test.ipynb) to see result.
 ## Learning Linear Transformations for Fast Image and Video Style Transfer
 **[[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)** **[[Project Page]](https://sites.google.com/view/linear-style-transfer-cvpr19/)**
 
