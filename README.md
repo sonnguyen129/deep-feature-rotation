@@ -12,7 +12,7 @@ Our method differs from [Gatys' method](https://www.cv-foundation.org/openaccess
 ## Result
 Experimental Result in different rotation weight
 
-![image3](./doc/rotation_weights.png)
+![image3](./doc/rotation_weight.png)
 
 Comparison with other methods
 
