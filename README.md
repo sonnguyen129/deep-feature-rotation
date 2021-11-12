@@ -3,10 +3,6 @@ Run [this notebook](https://github.com/sonnguyen129/style-transfer-rotation/blob
 ## Overview
 We propose a simple method for representing style features in many ways called Deep Feature Rotation, while still achieving effective stylization compared to more complex methods in style transfer. Our approach is a representative of the many ways of augmentation for intermediate feature embedding without consuming too much computational expense.
 
-![image1](./doc/rotate_mechanism.png)
-
-Our method differs from [Gatys' method](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) in that we can generate multiple outputs, and is a simple approach compared to many other methods. After encoding the content and style image, we will get a set of feature maps. We can rotate to many different angles
-
 ![image2](./doc/model.png)
 
 ## Result
