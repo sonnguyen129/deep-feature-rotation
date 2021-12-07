@@ -12,12 +12,22 @@ We propose a simple method for representing style features in many ways called D
     cd style-transfer-rotation
     ```
 * Inference:
-    * Simply run and check the results under results/ folder
+
+    * Simply run and check the results under ```results/``` folder
+    
     ```
     cd style-transfer
     python train.py --content-path <CONTENT_PATH> --style-path <STYLE_PATH>
     ```
+    
     * Or run [Colab](https://colab.research.google.com/drive/1nmf4_YnUBq5dGGTgWeN1fYNYOSOKeQ-1?usp=sharing) to see results
+    * <p align="center">
+        <a href="https://colab.research.google.com/drive/1nmf4_YnUBq5dGGTgWeN1fYNYOSOKeQ-1?usp=sharing">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
+        </a>
+            <br>
+        Try out in Google Colab
+      </p>
 
 ## Result
 Experimental Result in different rotation weight
