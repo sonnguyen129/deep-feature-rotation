@@ -18,7 +18,7 @@ In Proceedings of NICS 2021.
 4. [Contact](#contact)
 
 ## Overview
-We propose a simple method for representing style features in many ways called Deep Feature Rotation, while still achieving effective stylization compared to more complex methods in style transfer. Our approach is a representative of the many ways of augmentation for intermediate feature embedding without consuming too much computational expense.
+We propose a simple method for representing style features in many ways called ***Deep Feature Rotation***, while still achieving effective stylization compared to more complex methods in style transfer. Our approach is a representative of the many ways of augmentation for intermediate feature embedding without consuming too much computational expense.
 
 ![image2](./doc/model.png)
 
