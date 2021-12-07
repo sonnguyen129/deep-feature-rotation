@@ -1,12 +1,5 @@
 import tensorflow as tf
-
-import IPython.display as display
-
 import matplotlib.pyplot as plt
-import matplotlib as mpl
-mpl.rcParams['figure.figsize'] = (12,12)
-mpl.rcParams['axes.grid'] = False
-
 import numpy as np
 import PIL.Image
 import time
@@ -40,6 +33,8 @@ def imshow(image, title=None):
         plt.title(title)
 
 if __name__ == '__main__':
+    content_path = "data/content/golden_gate.jpg"
+    style_path = "data/style/styles-97.jpg"
     content_image = load_img(content_path)
     style_image = load_img(style_path)
 
