@@ -1,3 +1,4 @@
+Run [this notebook](https://github.com/sonnguyen129/style-transfer-rotation/blob/main/AdaIN/AdaIN-test.ipynb) to see result
 # Pytorch_Adain_from_scratch
 Unofficial Pytorch implementation of [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [Huang+, ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf)
 
