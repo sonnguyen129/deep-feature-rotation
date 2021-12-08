@@ -33,7 +33,7 @@ if __name__ == '__main__':
     parser.add_argument('--content-weight', type=int, default=1e4)
     parser.add_argument('--style-weight', type=int, default=1e-2)
     parser.add_argument('--total-variation-weight', type=int, default=30)
-    parser.add_argument('--save-dir', type=str, default='result',
+    parser.add_argument('--save-dir', type=str, default='results',
                         help='save directory for result and loss')
 
     args = parser.parse_args()
