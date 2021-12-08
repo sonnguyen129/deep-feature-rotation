@@ -48,16 +48,16 @@ pip install -r requirements.txt
     
     The test results will be saved to ```./results``` by default.
     
-    * <p align="center">
-        <a href="https://colab.research.google.com/drive/1nmf4_YnUBq5dGGTgWeN1fYNYOSOKeQ-1?usp=sharing">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
-        </a>
-            <br>
-        Try out in Google Colab
-      </p>
+ * <p align="center">
+    <a href="https://colab.research.google.com/drive/1nmf4_YnUBq5dGGTgWeN1fYNYOSOKeQ-1?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
+    </a>
+        <br>
+    Try out in Google Colab
+  </p>
 
 ## Results
-*Experimental Result in different rotation weight*
+*Experimental result in different rotation weight*
 
 ![image3](./doc/rotation_weight.png)
 --------------
