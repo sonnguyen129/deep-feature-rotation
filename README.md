@@ -18,7 +18,7 @@ In Proceedings of NICS 2021.
 4. [Contact](#contact)
 
 ## Overview
-We propose a simple method for representing style features in many ways called ***Deep Feature Rotation***, while still achieving effective stylization compared to more complex methods in style transfer. Our approach is a representative of the many ways of augmentation for intermediate feature embedding without consuming too much computational expense.
+We propose a simple method for representing style features in many ways called ***Deep Feature Rotation (DFR)***, while still achieving effective stylization compared to more complex methods in style transfer. Our approach is a representative of the many ways of augmentation for intermediate feature embedding without consuming too much computational expense.
 
 ![image2](./doc/model.png)
 
@@ -27,13 +27,13 @@ We propose a simple method for representing style features in many ways called *
 - Tensorflow 2.x
 - Check the requirements.txt
 
-```
+```shell
 pip install -r requirements.txt
 ```
 
 ### Installation
 * Clone this repository:
-    ```
+    ```shell
     git clone https://github.com/sonnguyen129/style-transfer-rotation
     cd style-transfer-rotation
     ```
@@ -41,7 +41,7 @@ pip install -r requirements.txt
     * Prepare your content image and style image. I provide some in the ```data/content``` and ```data/style``` and you can try to use them easily.
     * Simply run: 
     
-    ```
+    ```shell
     cd style-transfer
     python train.py --content-path <CONTENT_PATH> --style-path <STYLE_PATH>
     ```
