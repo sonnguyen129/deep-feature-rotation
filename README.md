@@ -65,6 +65,13 @@ pip install -r requirements.txt
 
 ![image4](./doc/SOTA.png)
 
+--------------
+*Running time comparison between multimodal methods*
+
+| Method | DeCorMST  | DFR-1 | DFR-2 | DFR-3 | DFR-4 |
+| :---:   | :-: | :-: | :-: | :-: | :-: | 
+| Time | 3 days | 361s | 377s | 396s | 417s |
+
 ## Contact
-Feel free to open new issue or contact me if there is any question (Son Truong Nguyen ```sonhai12092000@gmail.com```).
+Feel free to open new issue or contact me if there is any question.
 
