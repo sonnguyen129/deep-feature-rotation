@@ -42,7 +42,7 @@ pip install -r requirements.txt
     * Simply run: 
     
     ```shell
-    cd style-transfer
+    cd src
     python train.py --content-path <CONTENT_PATH> --style-path <STYLE_PATH>
     ```
     
