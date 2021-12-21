@@ -2,7 +2,7 @@
 
 This repository contains the **official implementation** of paper:
 
-***Deep Feature Rotation for Multimodal Image Style Transfer***
+***Deep Feature Rotation for Multimodal Image Style Transfer*** | [Presentation](https://docs.google.com/presentation/d/1QmEaNGX28uZUJ_Gy-NqIWW0nPcdlqrAA/edit?usp=sharing&ouid=103577362269285208414&rtpof=true&sd=true) |
 
 [**Son Truong Nguyen**](https://github.com/sonnguyen129), Nguyen Quang Tuyen, Nguyen Hong Phuc
 
@@ -65,12 +65,6 @@ pip install -r requirements.txt
 
 ![image4](./doc/SOTA.png)
 
---------------
-*Running time comparison between multimodal methods*
-
-| Method | DeCorMST  | DFR-1 | DFR-2 | DFR-3 | DFR-4 |
-| :---:   | :-: | :-: | :-: | :-: | :-: | 
-| Time | 3 days | 361s | 377s | 396s | 417s |
 
 ## Contact
 Feel free to open new issue or contact me if there is any question.
