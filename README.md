@@ -1,14 +1,18 @@
 # Deep Feature Rotation for Multimodal Image Style Transfer
 
-This repository contains the **official implementation** of paper:
+![Python 3.6](https://img.shields.io/badge/python-3.6.13-green.svg)
+![Packagist](https://img.shields.io/badge/Tensorflow-2.x-red.svg)
+![Last Commit](https://img.shields.io/github/last-commit/sonnguyen129/deep-feature-rotation)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/sonnguyen129/deep-feature-rotation/graphs/commit-activity))
+![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-[***Deep Feature Rotation for Multimodal Image Style Transfer***](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) 
+This repository contains the **official implementation** of paper: <br>
+[***Deep Feature Rotation for Multimodal Image Style Transfer***](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) <br>
+[**Son Truong Nguyen**](https://github.com/sonnguyen129), Nguyen Quang Tuyen, Nguyen Hong Phuc <br>
+In [**NICS 2021**](http://nafosted-nics.org/) **Oral**.<br>
 
-[**Son Truong Nguyen**](https://github.com/sonnguyen129), Nguyen Quang Tuyen, Nguyen Hong Phuc
-
-In [**NICS 2021**](http://nafosted-nics.org/) **Oral**.
-
-[Presentation](https://docs.google.com/presentation/d/1QmEaNGX28uZUJ_Gy-NqIWW0nPcdlqrAA/edit?usp=sharing&ouid=103577362269285208414&rtpof=true&sd=true)
+[Paper](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) | [Presentation](https://docs.google.com/presentation/d/1QmEaNGX28uZUJ_Gy-NqIWW0nPcdlqrAA/edit?usp=sharing&ouid=103577362269285208414&rtpof=true&sd=true) | Bibtex
 
 ## Table of Content
 
@@ -69,5 +73,5 @@ pip install -r requirements.txt
 
 
 ## Contact
-Feel free to open new issue or contact me if there is any question.
+If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or e-mail to the author Son Truong Nguyen.
 
