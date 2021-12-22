@@ -9,7 +9,7 @@ import argparse
 from loss import style_content_loss
 
 def clip_0_1(image):
-return tf.clip_by_value(image, clip_value_min=0.0, clip_value_max=1.0)
+    return tf.clip_by_value(image, clip_value_min=0.0, clip_value_max=1.0)
 
 @tf.function()
 def train_step(image, style_targets, extractor, opt, total_variation_weight, content_targets, 
