@@ -30,7 +30,6 @@ We propose a simple method for representing style features in many ways called *
 
 ## Getting started
 ### Dependency
-- Tensorflow 2.x
 - Check the requirements.txt
 
 ```shell
