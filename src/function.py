@@ -35,7 +35,7 @@ def train_step(image, style_targets, extractor, opt, total_variation_weight, con
         loss_1 = style_content_loss(outputs_1, style_targets[0], content_targets, 
                         content_weight, style_weight,num_content_layers, num_style_layers)
         loss_2 = style_content_loss(outputs_2, style_targets[1], content_targets, 
-                        ontent_weight, style_weight,num_content_layers, num_style_layers)
+                        content_weight, style_weight,num_content_layers, num_style_layers)
         loss_3 = style_content_loss(outputs_3, style_targets[2], content_targets, 
                         content_weight, style_weight,num_content_layers, num_style_layers)
         loss_4 = style_content_loss(outputs_4, style_targets[3], content_targets, 

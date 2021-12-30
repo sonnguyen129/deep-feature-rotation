@@ -5,7 +5,7 @@ import time
 import functools
 import os
 import copy
-from rotation import rotation_tensor
+from rotation import rotation_tensor, extensive_rotation_tensor
 
 def vgg_layers(layer_names):
     """ Creates a vgg model that returns a list of intermediate output values."""

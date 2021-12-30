@@ -1,6 +1,7 @@
 import tensorflow as tf
 import numpy as np
 from scipy.ndimage import rotate
+import copy
 
 def rotation_tensor(inputs, angles = None):
     """Rotate tensor in 90, 180, 270 angles"""
