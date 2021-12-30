@@ -1,7 +1,7 @@
 # Deep Feature Rotation for Multimodal Image Style Transfer
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6.13-green.svg)
-![Packagist](https://img.shields.io/badge/Tensorflow-2.x-red.svg)
+![Packagist](https://img.shields.io/badge/Tensorflow-2.7-red.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/sonnguyen129/deep-feature-rotation)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/sonnguyen129/deep-feature-rotation/graphs/commit-activity))
 ![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
