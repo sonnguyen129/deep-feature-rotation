@@ -73,5 +73,5 @@ pip install -r requirements.txt
 
 
 ## Contact
-If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or e-mail to the author Son Truong Nguyen.
+If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or mail to the author Son Truong Nguyen.
 
