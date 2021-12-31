@@ -41,7 +41,7 @@ We propose a simple method for representing style features in many ways called *
 </p>
 
 ### Installation
-* Clone this repository check the ```requirements.txt```:
+* Clone this repository and check the ```requirements.txt```:
     ```shell
     git clone https://github.com/sonnguyen129/deep-feature-rotation
     cd deep-feature-rotation
