@@ -9,7 +9,7 @@
 
 This repository contains the **official implementation** of paper: <br>
 [***Deep Feature Rotation for Multimodal Image Style Transfer***](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) <br>
-[**Son Truong Nguyen**](https://github.com/sonnguyen129), Nguyen Quang Tuyen, Nguyen Hong Phuc <br>
+[**Son Truong Nguyen**](https://sonnguyen129.github.io/), Nguyen Quang Tuyen, Nguyen Hong Phuc <br>
 In [**NICS 2021**](http://nafosted-nics.org/) **Oral**.<br>
 
 | [Paper](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) | [Presentation](https://docs.google.com/presentation/d/1QmEaNGX28uZUJ_Gy-NqIWW0nPcdlqrAA/edit?usp=sharing&ouid=103577362269285208414&rtpof=true&sd=true) | [Colab Demo](#demo) | Bibtex |
@@ -52,8 +52,7 @@ We propose a simple method for representing style features in many ways called *
     * Simply run: 
     
     ```shell
-    cd src
-    python train.py --content-path <CONTENT_PATH> --style-path <STYLE_PATH>
+    python src/train.py --content-path <CONTENT_PATH> --style-path <STYLE_PATH>
     ```
     
     The test results will be saved to ```./results``` by default.
