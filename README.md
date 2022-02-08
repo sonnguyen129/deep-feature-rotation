@@ -62,20 +62,27 @@ We propose a simple method for representing style features in many ways called *
     The test results will be saved to ```./results``` by default.
 
 ## Results
-*Experimental result in different rotation weight*
 
 ![image3](./doc/rotation_weight.png)
---------------
-*Comparison with other methods*
+
+<p align="center">
+    <sub><em>Experimental result in different rotation weight.</em></sub>
+</p>
 
 ![image4](./doc/SOTA.png)
+
+<p align="center">
+    <sub><em>Comparison with other methods.</em></sub>
+</p>
 
 ## Extensive results
 We provide a visual comparison between other rotation angles that do not appear in the paper. The rotation angles will produce a very diverse number of outputs. This has proven the effectiveness of our method with other methods.
 
 ![image4](./doc/extensive-results.png)
 
-<div align="center"><em><strong>Table 1:</strong> Visual comparison in different rotation angles</em></div>
+<p align="center">
+    <sub><em>Visual comparison in different rotation angles.</em></sub>
+</p>
 
 
 ## Contact
