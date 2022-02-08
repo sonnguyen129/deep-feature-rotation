@@ -9,6 +9,8 @@
 
 ![image1](./doc/DFR-demo.gif)
 
+--------------------------------
+
 This repository contains the **official implementation** of paper: <br>
 [***Deep Feature Rotation for Multimodal Image Style Transfer***](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) <br>
 [**Son Truong Nguyen**](https://sonnguyen129.github.io/), Nguyen Quang Tuyen, Nguyen Hong Phuc <br>
