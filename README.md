@@ -56,7 +56,7 @@ We propose a simple method for representing style features in many ways called *
     * Simply run: 
     
     ```shell
-    python src/train.py --content-path <CONTENT_PATH> --style-path <STYLE_PATH>
+    python train.py --content-path <CONTENT_PATH> --style-path <STYLE_PATH>
     ```
     
     The test results will be saved to ```./results``` by default.
