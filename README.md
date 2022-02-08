@@ -32,7 +32,15 @@ In [**NICS 2021**](http://nafosted-nics.org/) **Oral**.<br>
 ## Overview
 We propose a simple method for representing style features in many ways called ***Deep Feature Rotation (DFR)***, while still achieving effective stylization compared to more complex methods in style transfer. Our approach is a representative of the many ways of augmentation for intermediate feature embedding without consuming too much computational expense.
 
-![image2](./doc/model.png)
+<br>
+
+<p align="center">
+  <img src="doc/model.png" alt="Model architecture" width="800">  
+</p>
+
+<p align="center">
+    <sub><em>Model architecture.</em></sub>
+</p>
 
 ## Getting started
 ### Demo
@@ -63,11 +71,15 @@ We propose a simple method for representing style features in many ways called *
 
 ## Results
 
-![image3](./doc/rotation_weight.png)
+<p align="center">
+  <img src="doc/rotation_weight.png">  
+</p>
 
 <p align="center">
     <sub><em>Experimental result in different rotation weight.</em></sub>
 </p>
+
+<br>
 
 ![image4](./doc/SOTA.png)
 
@@ -86,5 +98,5 @@ We provide a visual comparison between other rotation angles that do not appear 
 
 
 ## Contact
-If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or mail to the author Son Truong Nguyen.
+If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or mail to the author [Son Truong Nguyen](https://sonnguyen129.github.io/).
 
