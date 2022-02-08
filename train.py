@@ -6,10 +6,10 @@ import functools
 import os
 import copy
 import argparse
-from model import StyleContentModel, StyleContentModel_style
-from loss import style_content_loss
-from utils import load_img, tensor_to_image
-from function import train_step
+from src.model import StyleContentModel, StyleContentModel_style
+from src.loss import style_content_loss
+from src.utils import load_img, tensor_to_image
+from src.function import train_step
 
 import matplotlib.pyplot as plt
 import matplotlib as mpl
