@@ -73,7 +73,7 @@ We propose a simple method for representing style features in many ways called *
 ## Extensive results
 We provide a visual comparison between other rotation angles that do not appear in the paper. The rotation angles will produce a very diverse number of outputs. This has proven the effectiveness of our method with other methods.
 
-![image4](./doc/extensive_results.png)
+![image4](./doc/extensive-results.png)
 
 <div align="center"><em><strong>Table 1:</strong> Visual comparison in different rotation angles</em></div>
 
