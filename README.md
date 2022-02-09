@@ -16,8 +16,8 @@ This repository contains the **official implementation** of paper: <br>
 [**Son Truong Nguyen**](https://sonnguyen129.github.io/), Nguyen Quang Tuyen, Nguyen Hong Phuc <br>
 In [**NICS 2021**](http://nafosted-nics.org/) **Oral**.<br>
 
-| [Paper](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) | [Presentation](https://docs.google.com/presentation/d/1QmEaNGX28uZUJ_Gy-NqIWW0nPcdlqrAA/edit?usp=sharing&ouid=103577362269285208414&rtpof=true&sd=true) | [Colab Demo](#demo) | Bibtex |
-| :---:     |  :----: | :---: |  :---: |
+| [Paper (arXiv version)](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) | [Paper (IEEE version)](https://ieeexplore.ieee.org/document/9701465) | [Presentation](https://docs.google.com/presentation/d/1QmEaNGX28uZUJ_Gy-NqIWW0nPcdlqrAA/edit?usp=sharing&ouid=103577362269285208414&rtpof=true&sd=true) | [Colab Demo](#demo) | [Bibtex](#citation) |
+| :---:     |  :----: | :---: |  :---: | :---: |
     
 ## Table of Content
 
@@ -27,7 +27,8 @@ In [**NICS 2021**](http://nafosted-nics.org/) **Oral**.<br>
     - [Installation](#installation)
 3. [Results](#results)
 4. [Extensive results](#extensive-results)
-5. [Contact](#contact)
+5. [Citation](#citation)
+6. [Contact](#contact)
 
 ## Overview
 We propose a simple method for representing style features in many ways called ***Deep Feature Rotation (DFR)***, while still achieving effective stylization compared to more complex methods in style transfer. Our approach is a representative of the many ways of augmentation for intermediate feature embedding without consuming too much computational expense.
@@ -96,7 +97,18 @@ We provide a visual comparison between other rotation angles that do not appear 
     <sub><em>Visual comparison in different rotation angles.</em></sub>
 </p>
 
-
+## Citation
+If you find this work useful for your research, please cite:
+```bibtex
+@INPROCEEDINGS{9701465,  
+    author={Nguyen, Son Truong and Tuyen, Nguyen Quang and Phuc, Nguyen Hong},  
+    booktitle={2021 8th NAFOSTED Conference on Information and Computer Science (NICS)},   
+    title={Deep Feature Rotation for Multimodal Image Style Transfer},   
+    year={2021},  
+    pages={260-265},  
+    doi={10.1109/NICS54270.2021.9701465}
+}
+```
 ## Contact
 If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or mail to the author [Son Truong Nguyen](https://sonnguyen129.github.io/).
 
