@@ -12,11 +12,11 @@
 --------------------------------
 
 This repository contains the **official implementation** of paper: <br>
-[***Deep Feature Rotation for Multimodal Image Style Transfer***](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) <br>
+[***Deep Feature Rotation for Multimodal Image Style Transfer***](https://arxiv.org/pdf/2202.04426.pdf) <br>
 [**Son Truong Nguyen**](https://sonnguyen129.github.io/), Nguyen Quang Tuyen, Nguyen Hong Phuc <br>
 In [**NICS 2021**](http://nafosted-nics.org/) **Oral**.<br>
 
-| [Paper (arXiv version)](https://drive.google.com/file/d/10PlfQGgqGja60zWoXHrU-9obZCac0IEK/view?usp=sharing) | [Paper (IEEE version)](https://ieeexplore.ieee.org/document/9701465) | [Presentation](https://github.com/sonnguyen129/deep-feature-rotation/blob/main/doc/NICS'21.pdf) | [Colab Demo](#demo) | [Bibtex](#citation) |
+| [Paper (arXiv version)](https://arxiv.org/abs/2202.04426) | [Paper (IEEE version)](https://ieeexplore.ieee.org/document/9701465) | [Presentation](https://github.com/sonnguyen129/deep-feature-rotation/blob/main/doc/NICS'21.pdf) | [Colab Demo](#demo) | [Bibtex](#citation) |
 | :---:     |  :----: | :---: |  :---: | :---: |
     
 ## Table of Content
